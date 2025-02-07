@@ -42,3 +42,7 @@ A classic Minesweeper game built with C++, SFML, and CMake. The objective of the
     ./minesweeper
     ```
 6. Enjoy!
+
+## Disclaimer
+
+This project was originally developed without version control and was uploaded to GitHub at a later date. As a result, the commit history may not fully reflect the development process, and some earlier changes may not be captured in version control.
